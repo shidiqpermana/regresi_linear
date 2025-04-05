@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #cce7ff; /* Warna biru muda */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 500px;
+}
+
+.card {
+    border-radius: 12px;
+    background: white;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #007bff; /* Warna biru untuk judul */
+    font-weight: bold;
+}
+
+.btn {
+    font-size: 1.1rem;
+}
+
+.alert {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
